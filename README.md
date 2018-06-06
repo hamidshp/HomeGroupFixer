@@ -1,3 +1,3 @@
 # HomeGroupFixer
 
-Download the file and run it.
+Download the .Reg file and run it.
